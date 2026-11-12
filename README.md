@@ -1,4 +1,4 @@
-# Hi there, I'm [Numele Tău]! 👾
+# Hi there, I'm Mario! 👾
 
 I am a 2nd-year **Computer and Information Technology (CTI)** student at Politehnica University of Timișoara (UPT). 
 
